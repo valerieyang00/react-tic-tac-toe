@@ -1,6 +1,6 @@
 # React Tic Tac Toe ✅
 
-Follow the [React tic tac toe tutorial](https://reactjs.org/tutorial/tutorial.html) through to step "Adding Time Travel."
+Follow the [React tic tac toe tutorial](https://reactjs.org/tutorial/tutorial.html) through to step "Why Immutability is Important."
 
 You'll notice there are two options for setup that the tutorial offers. Do **Setup Option 2: Local Development Environment**. Make the project a Github repo and commit as you go.
 
@@ -14,6 +14,6 @@ You'll notice there are two options for setup that the tutorial offers. Do **Set
 // Link goes here
 ```
 
-Get to at least the "Adding Time Travel" part of the tutorial.
+Get to at least the "Why Immutability is Important" part of the tutorial (this section here: https://reactjs.org/tutorial/tutorial.html#why-immutability-is-important).
 
 
